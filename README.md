@@ -1,3 +1,5 @@
+<img src="pika.png" alt="Pikachu" width="300">
+
 ## Data Source
 
 The dataset was obtained from the
